@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_command">mount -o bind /sdcard/_ExternalSD/music /sdcard/qqmusic/song</string>
+    <string name="app_name">自动脚本执行器</string>
+</resources>
